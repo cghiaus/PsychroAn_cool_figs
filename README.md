@@ -18,3 +18,7 @@
 To experiment with a `cool_fig_*.ipynb` notebook:
 - Run the notebook by clicking the double arrow icon `>>`or by selecting from the pull-down menu: `Kernel / Restart & Run all` then clicking: `Restart and Run All Cells`.
 - Change the values of the widgets for the psychrometric representations.
+
+To run the notebooks iteractively on MyBonder.org, click the button below:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cghiaus/PsychroAn_cool_figs/HEAD)
